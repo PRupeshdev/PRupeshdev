@@ -110,7 +110,7 @@ CGPA: 8.77/10
 ## 📫 Contact
 
 📧 Email: [prupesh1809@gmail.com](mailto:prupesh1809@gmail.com)
-🔗 LinkedIn
+🔗 LinkedIn: https://www.linkedin.com/in/p-rupesh-413200238/
 💻 GitHub
 
 ---
